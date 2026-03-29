@@ -1,0 +1,10 @@
+{
+  "name": "@depress-net/auth-app-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@depress-net/auth-app"
+    ]
+  }
+}
