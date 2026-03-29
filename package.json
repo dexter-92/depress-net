@@ -65,6 +65,7 @@
     "jest-util": "^30.0.2",
     "jiti": "2.4.2",
     "jsdom": "~22.1.0",
+    "jsonc-eslint-parser": "^2.1.0",
     "nx": "22.6.3",
     "pg": "^8.20.0",
     "prettier": "~3.6.2",
@@ -81,6 +82,7 @@
   },
   "workspaces": [
     "apps/*",
-    "prisma"
+    "prisma",
+    "libs/*"
   ]
 }
