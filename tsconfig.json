@@ -17,12 +17,6 @@
     },
     {
       "path": "./libs/prisma"
-    },
-    {
-      "path": "./libs/prisma"
-    },
-    {
-      "path": "./libs/prisma"
     }
   ]
 }
