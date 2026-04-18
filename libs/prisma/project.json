@@ -12,5 +12,7 @@
         "command": "npx prisma db push --schema libs/prisma/schemas --config libs/prisma/prisma.config.ts"
       }
     }
-  }
+  },
+  "name": "@depress-net/prisma",
+  "projectType": "library"
 }

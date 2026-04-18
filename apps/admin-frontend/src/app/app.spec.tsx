@@ -20,8 +20,7 @@ describe('App', () => {
       </BrowserRouter>,
     );
     expect(
-      getAllByText(new RegExp('Welcome @depress-net/auth-app', 'gi')).length >
-        0,
+      getAllByText(new RegExp('Welcome admin-frontend', 'gi')).length > 0,
     ).toBeTruthy();
   });
 });
